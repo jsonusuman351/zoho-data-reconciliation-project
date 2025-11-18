@@ -1,0 +1,7 @@
+# Ignore large raw data files
+1. DA-hackathon_2A_2B.csv
+2. DA-hackathon_Booking.csv
+3. DA-hackathon_Invoice.csv
+
+# Ignore local system files
+.DS_Store
